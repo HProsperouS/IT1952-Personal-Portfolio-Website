@@ -1,0 +1,9 @@
+Name:LIUJIAJUN (211283E)
+1.I added a price card in second page(it is responsive)
+2.I added another javascript game in my second page
+3.My first page is also responsive and i forggot to show it in the demo
+4.I added a form in my second page
+5.Visiter can use the footer nav to travel bewenn first page and second page
+6.I had fixed the bug so the both form responses can send to my email
+7.Both of my first page and second page are responsive
+8.When the screen decreases, the menu-button will appear
